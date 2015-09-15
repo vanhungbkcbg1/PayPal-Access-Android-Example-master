@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/myproject/PayPal-Access-Android-Example-master/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/E:/myproject/PayPal-Access-Android-Example-master/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="LOGIN_REQUEST" type="id"/>
+    <!-- From: file:/E:/myproject/PayPal-Access-Android-Example-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">PayPal Access</string>
+    <string name="btn_login">Login with PayPal</string>
+    <string name="login_description">This enables the user to use his PayPal credentials to login. Thus he doesn\'t have to create yet another account and remember yet another password.</string>
+    <string name="login_oauth">OAuth 2.0</string>
+    <string name="login_openid">OpenID</string>
+    <string name="progress_loading_msg">Login is possible in a few seconds</string>
+    <string name="progress_loading_title">Loading₀</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">PayPal Access</string>
+    <string name="toast_login_failed">Login failed</string>
+    <string name="toast_login_ok">Logged in</string>
+    <!-- From: file:/E:/myproject/PayPal-Access-Android-Example-master/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
